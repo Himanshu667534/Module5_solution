@@ -1,2 +1,2 @@
-# Module5_solution
-https://himanshu667534.github.io/Module5_solution/
+# Restaurant_Website
+https://himanshu667534.github.io/Restaurant_website/
